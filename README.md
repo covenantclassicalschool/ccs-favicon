@@ -1,7 +1,7 @@
 
 # Covenant Favicon Generator
 
-Easily regenerate the favicon assets for [Covenant](http://www.covenantclassicalschool.org)
+Easily regenerate the favicon assets for [Covenant](http://www.covenantclassicalschool.org). Read about favicons on [Wikipedia](https://en.wikipedia.org/wiki/Favicon), and [why they are important](http://www.hongkiat.com/blog/favicons-importance/).
 
 ## Generate the favicon assets
 
