@@ -5,7 +5,9 @@ Easily regenerate the favicon assets for [Covenant](http://www.covenantclassical
 
 ## Generate the favicon assets
 
-The icons are all generated using the master [faviconMaster.png](assets/faviconMaster.png) image.
+The icons are all generated using the [faviconMaster.png](assets/faviconMaster.png) image.
+
+![Favicon Master](https://raw.githubusercontent.com/covenantclassicalschool/ccs-favicon/master/assets/faviconMaster.png)
 
 From the command line, run:
 
